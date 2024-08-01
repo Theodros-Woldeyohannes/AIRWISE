@@ -38,7 +38,7 @@ for root, dirs, files in os.walk(folder_path):
                 # print(df)
                 # df.to_csv(r'D:\UNM\P50\INBRE\2024\PurpleAir_data\PurpleAir Download 6-19-2024 (1)/df.csv')
 
-                # f, (ax, ax2) = plt.subplots(1, 2, sharey=True, facecolor='w')
+                f, (ax, ax2) = plt.subplots(1, 2, sharey=True, facecolor='w')
                 # # plot the same data on both axes
                 # ax.plot(df['time_stamp_UTC'], pm25_data)
                 # ax2.plot(df['time_stamp_UTC'], pm25_data)
