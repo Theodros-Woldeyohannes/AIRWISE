@@ -9,7 +9,9 @@ editor: visual
 library(lubridate)
 library(dplyr)
 library(tidyverse)
+library(plyr)
 ```
+
 ```{r}
 GC1 <- read.csv("GC-1 0-Minute Average.csv")
 GC2 <- read.csv("GC-2 0-Minute Average.csv")
@@ -168,3 +170,15 @@ write.csv(GC9_24hr, "GC9_24hr.csv")
 write.csv(GC10_24hr, "GC10_24hr.csv")
 
 ```
+
+```{r}
+datlist <- list(GC1, GC2, GC3, GC4, GC5, GC6, GC7, GC8, GC9, GC10)
+```
+
+```{r}
+lapply(datlist, function(x) sapply(x, summary))
+```
+```{r}
+ldply(datlist, function(x) sapply(x, summary))
+```
+
