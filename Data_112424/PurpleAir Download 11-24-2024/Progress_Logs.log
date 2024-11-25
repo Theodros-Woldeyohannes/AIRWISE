@@ -1,0 +1,142 @@
+Progress Logs
+-------------
+Sensors With Data in Time Range: 8
+Sensors Without Data in Time Range: 0
+
+Sensors Not Found: 0
+Invalid Sensor Indexes: 0
+Sensor Indexes Encountering Other Errors: 0
+Sensor Indexes Not Processed: 0
+
+Start Timestamp: 2024-04-05T00:00:00-06:00
+End Timestamp: 2024-11-24T00:00:00-07:00
+Average: 0
+Fields: humidity,temperature,pressure,voc,pm1.0_atm,pm2.5_atm,pm10.0_atm
+Total Data Rows Downloaded: 947313
+
+Number of Sensors: 8
+Number of Read Keys: undefined
+
+Download Started at: 2024-11-24T13:33:19-07:00
+Download Ended   at: 2024-11-24T13:38:28-07:00
+Download Took: 5.1 minutes
+
+-------------
+Sensor Indexes Not Found:
+
+
+Invalid Sensor Indexes:
+
+
+Sensors Without Any Data For Specified Time Period:
+
+
+Sensors Where No Download Was Attempted Yet Due to Process Being Aborted:
+
+
+Aborted on Sensors:
+
+
+Sensors With Number of Downloaded Data Rows:
+209529 : 83577 data rows
+210523 : 63578 data rows
+210525 : 67990 data rows
+210537 : 121928 data rows
+210539 : 123743 data rows
+210549 : 164859 data rows
+210551 : 159764 data rows
+210571 : 161874 data rows
+  
+
+-------------
+Starting requests for sensor 210525.
+Making request 1 from 2024-04-05 to 2024-05-05
+Making request 2 from 2024-05-05 to 2024-06-04
+Making request 3 from 2024-06-04 to 2024-07-04
+Making request 4 from 2024-07-04 to 2024-08-03
+Making request 5 from 2024-08-03 to 2024-09-02
+Making request 6 from 2024-09-02 to 2024-10-02
+Making request 7 from 2024-10-02 to 2024-11-01
+Making request 8 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210525. Downloaded 67990 rows of data.
+
+Starting requests for sensor 210571.
+Making request 9 from 2024-04-05 to 2024-05-05
+Making request 10 from 2024-05-05 to 2024-06-04
+Making request 11 from 2024-06-04 to 2024-07-04
+Making request 12 from 2024-07-04 to 2024-08-03
+Making request 13 from 2024-08-03 to 2024-09-02
+Making request 14 from 2024-09-02 to 2024-10-02
+Making request 15 from 2024-10-02 to 2024-11-01
+Making request 16 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210571. Downloaded 161874 rows of data.
+
+Starting requests for sensor 210549.
+Making request 17 from 2024-04-05 to 2024-05-05
+Making request 18 from 2024-05-05 to 2024-06-04
+Making request 19 from 2024-06-04 to 2024-07-04
+Making request 20 from 2024-07-04 to 2024-08-03
+Making request 21 from 2024-08-03 to 2024-09-02
+Making request 22 from 2024-09-02 to 2024-10-02
+Making request 23 from 2024-10-02 to 2024-11-01
+Making request 24 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210549. Downloaded 164859 rows of data.
+
+Starting requests for sensor 210537.
+Making request 25 from 2024-04-05 to 2024-05-05
+Making request 26 from 2024-05-05 to 2024-06-04
+Making request 27 from 2024-06-04 to 2024-07-04
+Making request 28 from 2024-07-04 to 2024-08-03
+Making request 29 from 2024-08-03 to 2024-09-02
+Making request 30 from 2024-09-02 to 2024-10-02
+Making request 31 from 2024-10-02 to 2024-11-01
+Making request 32 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210537. Downloaded 121928 rows of data.
+
+Starting requests for sensor 210551.
+Making request 33 from 2024-04-05 to 2024-05-05
+Making request 34 from 2024-05-05 to 2024-06-04
+Making request 35 from 2024-06-04 to 2024-07-04
+Making request 36 from 2024-07-04 to 2024-08-03
+Making request 37 from 2024-08-03 to 2024-09-02
+Making request 38 from 2024-09-02 to 2024-10-02
+Making request 39 from 2024-10-02 to 2024-11-01
+Making request 40 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210551. Downloaded 159764 rows of data.
+
+Starting requests for sensor 210539.
+Making request 41 from 2024-04-05 to 2024-05-05
+Making request 42 from 2024-05-05 to 2024-06-04
+Making request 43 from 2024-06-04 to 2024-07-04
+Making request 44 from 2024-07-04 to 2024-08-03
+Making request 45 from 2024-08-03 to 2024-09-02
+Making request 46 from 2024-09-02 to 2024-10-02
+Making request 47 from 2024-10-02 to 2024-11-01
+Making request 48 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210539. Downloaded 123743 rows of data.
+
+Starting requests for sensor 210523.
+Making request 49 from 2024-04-05 to 2024-05-05
+Making request 50 from 2024-05-05 to 2024-06-04
+Making request 51 from 2024-06-04 to 2024-07-04
+Making request 52 from 2024-07-04 to 2024-08-03
+Making request 53 from 2024-08-03 to 2024-09-02
+Making request 54 from 2024-09-02 to 2024-10-02
+Making request 55 from 2024-10-02 to 2024-11-01
+Making request 56 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 210523. Downloaded 63578 rows of data.
+
+Starting requests for sensor 209529.
+Making request 57 from 2024-04-05 to 2024-05-05
+Making request 58 from 2024-05-05 to 2024-06-04
+Making request 59 from 2024-06-04 to 2024-07-04
+Making request 60 from 2024-07-04 to 2024-08-03
+Making request 61 from 2024-08-03 to 2024-09-02
+Making request 62 from 2024-09-02 to 2024-10-02
+Making request 63 from 2024-10-02 to 2024-11-01
+Making request 64 from 2024-11-01 to 2024-11-24
+Data download completed for sensor 209529. Downloaded 83577 rows of data.
+
+
+Download request has been completed. Scroll down for a summary:
+--------------------------------------
